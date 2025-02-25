@@ -7,7 +7,7 @@ serper api key https://serper.dev/api-key
 
 ## How to run
 
-1. add api keys to env file
+1. add api keys to env file (backend/.env.sample)
 2. install python packages
 
 ```shell
