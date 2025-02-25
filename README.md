@@ -33,3 +33,6 @@ pnpm run dev
 cd backend
 uvicorn server:app --reload
 ```
+
+
+https://github.com/user-attachments/assets/e6102773-ab9f-4c13-8e70-45c0e813507c
